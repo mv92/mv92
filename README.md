@@ -1,10 +1,10 @@
 ### ✨ Hi there! ✨
-My name's Mihail (literally Michael, pronounces as Mikhail)<br/>
+My name's Mihail (literally Michael, pronounced as Mikhail)<br/>
 I'm a front-end developer from Republic of Moldova 🇲🇩.
 
 Started as a PHP freelancer in early 2018 and then switched to the front-end in the mid 2018. <br/>
-Main stack is Vue + TS + SCSS.<br/>
-Small projects and non-commercial experience: Nuxt.js, Next.js, React, Node.js, Nest.js, MySQL, MongoDB.
+My main stack is Vue + TS + SCSS.<br/>
+Small projects and non-commercial experience in: Nuxt.js, Next.js, React, Node.js, Nest.js with MySQL, MongoDB.
 
 ### I’m currently:
 - 🔭 working on [my personal site](https://plain-one.dev) and a private API for it
