@@ -8,8 +8,8 @@ My main stack is Vue + TS + SCSS.<br/>
 Also worked on projects with: Nuxt.js, Next.js, React, Node.js, Nest.js.
 
 ### I’m currently:
-- 🔭 working on [my personal site](https://plain-one.dev) and a private API for it
 - 🌱 learning Next.js and its integration with Vercel
+- 🍁 exploring Angular at the basic level
 
 ### Connect with me
 
