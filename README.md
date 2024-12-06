@@ -3,7 +3,7 @@ My name is Mihail (in english Michael, pronounced as Mikhail)
 
 I'm a front-end developer from Republic of Moldova 🇲🇩.
 
-Started as a PHP freelancer in early 2018 and then switched to the front-end in the mid 2018. <br/>
+Started as a PHP freelancer in Q4 of 2017 and then switched to the front-end in the Q3 of 2018. <br/>
 My main stack is Vue + TS + SCSS.<br/>
 Also worked on projects with: Nuxt.js, Next.js, React, Node.js, Nest.js.
 
