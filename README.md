@@ -1,5 +1,5 @@
 ### ✨ Hi there! ✨
-My name is Mihail (literally Michael, pronounced as Mikhail)
+My name is Mihail (in english Michael, pronounced as Mikhail)
 
 I'm a front-end developer from Republic of Moldova 🇲🇩.
 
